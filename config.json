@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdtringify",
+        "uuid": 23123415,
+        "checksum": "vm4s9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
